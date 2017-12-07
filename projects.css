@@ -38,44 +38,7 @@ h2 {
 	padding-top: 10px;
 }
 
-h4 {
-	color:#2f4f4f;
-	font-size: 15px;
-	font-weight: normal;
-	line-height: 30px;
-	padding-left: 5px;
-	padding-top: 5px
-}
-
-h5 {
-	color:#E13A63;
-	font-size: 18px;
-	font-weight: lighter;
-	padding-top: 8px;
-}
-
-#section-one {
-	color:#2f4f4f;
-	font-size: 20px;
-	font-weight: normal;
-}
-
-h3 {
+.prog {
+	width: 30px;
 	padding-top: 10px;
-}
-
-#skills {
-	padding-top: 165px;
-}
-
-#list {
-	padding-right: 50px;
-	line-height: 40px;
-	font-size: 16px;
-}
-
-#section-two {
-	color:#2f4f4f;
-	font-size: 15px;
-	font-weight: normal;
 }
