@@ -38,7 +38,35 @@ h2 {
 	padding-top: 10px;
 }
 
+h5 {
+	color:#E13A63;
+	font-size: 18px;
+	font-weight: lighter;
+	padding-top: 8px;
+}
+
 #prof {
-	width: 50px;
-	padding-top: 10px;
+	width: 260px;
+	padding-top: 115px;
+}
+
+#prof-one {
+	width: 260px;
+	padding-top: 25px;
+}
+
+#prof-two {
+	width: 260px;
+	padding-top: 25px;
+}
+
+#section-one {
+	color:#2f4f4f;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+#link_two {
+	color: #337ab7;
+    text-decoration: none;
 }
