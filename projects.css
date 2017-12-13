@@ -32,7 +32,11 @@
 	color:white;
 }
 
-body, html {
+#link_one {
+	color:#E13A63;
+}
+
+body {
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -50,20 +54,26 @@ h2 {
 	padding-top: 10px;
 }
 
-h4 {
-	color:#2f4f4f;
-	font-size: 15px;
-	font-weight: normal;
-	line-height: 30px;
-	padding-left: 5px;
-	padding-top: 5px
-}
-
 h5 {
 	color:#E13A63;
 	font-size: 18px;
 	font-weight: lighter;
 	padding-top: 8px;
+}
+
+#prof {
+	width: 260px;
+	padding-top: 90px;
+}
+
+#prof-one {
+	width: 260px;
+	padding-top: 25px;
+}
+
+#prof-two {
+	width: 260px;
+	padding-top: 25px;
 }
 
 #section-one {
@@ -72,38 +82,7 @@ h5 {
 	font-weight: normal;
 }
 
-h3 {
-	padding-top: 45px;
-}
-
-#skills {
-	padding-top: 132px;
-}
-
-#list {
-	padding-right: 50px;
-	line-height: 40px;
-	font-size: 16px;
-}
-
-#section-two {
-	color:#2f4f4f;
-	font-size: 15px;
-	font-weight: normal;
-}
-
-#modules {
-	line-height: 19px;
-	font-size: 15px;
-	color:#2f4f4f;
-}
-
-.new-container-width {
-	width: 100%;
-}
-
-@media (media-width: 768px){
-	.info {
-		font-size: 21px;
-	}
+#link_two {
+	color: #337ab7;
+    text-decoration: none;
 }
