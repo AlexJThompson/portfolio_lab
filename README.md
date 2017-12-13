@@ -24,4 +24,8 @@ This portfolio includes the following:
 
 ## Technologies
 
-My portfolio was compiled using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) to achieve a professional looking documentation.
+My portfolio was compiled using HTML to create the page elements and CSS to help with the styling and formatting in order to achieve a professional looking documentation.
+
+## Tools Used
+
+Github was used in order to share newest versions of my work with others, and the command line was used to manage my files and maintain a high level of organisation.
